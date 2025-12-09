@@ -1,0 +1,13 @@
+//auggie test 1 2025-2026
+int main()
+{
+   
+   
+    motor(1,100);
+    motor(0,-100);
+    msleep(1000);
+   
+    return 0;
+motor(1,100);
+motor(0,-100);
+msleap(1000);
